@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+    <title>Modal com JavaScript puro</title>
+</head>
+<body>
+    <!-- <style>
+        dialog::backdrop{
+            background-color: black;
+        }
+
+    </style> -->
+
+
+
+
+    <dialog id="dialog">
+        <p>Ola como vai voce!</p>
+        <div>
+            <button>Ok</button>
+            <button id="cancel">cancelar</button>
+        </div>
+    </dialog>        
+    <button id="btn_open_modal">Open modal</button> 
+
+
+    <!-- <script>
+        var btn_modal = document.querySelector('#btn_open_modal');
+        btn_modal.addEventListener('click', () => {
+        dialog.showModal();
+        })
+
+        cancel.addEventListener('click', () => {
+            dialog.close();
+        })
+    </script> -->
+    
+</body>
+</html>
