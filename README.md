@@ -1,7 +1,7 @@
 
 ### Como criar um modal com JavaScript puro.
 
-Bora aprender a criar um modal com #JavaScript puro, utilizando #HTML para estruturação da página!📚  <!-- e #CSS para estilização. -->
+Bora aprender a criar um modal com #JavaScript puro, utilizando #HTML para estruturação da página!📚  <!-- e #CSS para estilização. -->  
 Modal é um elemento utilizado em muitos sites, geralmente para mostrar informações que não estão na página.  
 Aprender o conceito de como construir um modal é fundamental para qualquer desenvolvedor.
 
