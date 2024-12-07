@@ -9,9 +9,22 @@ btn_modal.addEventListener(
     }
 )
 
+btn_modal.addEventListener2(
+
+    'click', () => {
+        dialog.showModal();
+    }
+)
 
 cancel.addEventListener(
     
+    'click', () => {
+        dialog.close();
+    }
+)
+
+cancel.addEventListener2(
+
     'click', () => {
         dialog.close();
     }
